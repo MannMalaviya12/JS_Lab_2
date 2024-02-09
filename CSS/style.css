@@ -1,0 +1,8 @@
+html {
+    font-family: sans-serif;
+    font-size: 200%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    transition-property: background-color;
+    transition-duration: 0.25s;
+}
